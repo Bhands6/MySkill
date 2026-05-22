@@ -1,0 +1,20 @@
+# 敏感信息
+*cookie*.txt
+*.env
+.env*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 调试截图
+*.png
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
